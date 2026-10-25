@@ -5,5 +5,5 @@ jobs:
    greeting:
       runs-on: ubuntu-latest
       steps:
-          - name: greeting step
+          - name: Greeting step
             run: echo "Welcome to Reusable Workflow"
